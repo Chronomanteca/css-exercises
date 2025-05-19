@@ -1,0 +1,21 @@
+.paragraph{
+    background-color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.cooler{
+    font-size: 40px;
+}
+
+#num2{
+    font-size: 70px;
+    color: blue;
+    
+}
+
+#num4{
+    font-weight: bold;
+    font-size: 35px;
+    background-color: limegreen;
+}
